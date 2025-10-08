@@ -1,2 +1,3 @@
 https://github.com/orgs/azure-ai-foundry/discussions/165
 
+Python + AI: Embeddings Vectoriales = https://github.com/Azure-Samples/vector-embeddings-demos
