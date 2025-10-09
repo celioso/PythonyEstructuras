@@ -1,3 +1,5 @@
-https://github.com/orgs/azure-ai-foundry/discussions/165
+Python + IA: Recursos #165 = https://github.com/orgs/azure-ai-foundry/discussions/165
+
+PythonAI_LMMs = https://github.com/orgs/azure-ai-foundry/discussions/165
 
 Python + AI: Embeddings Vectoriales = https://github.com/Azure-Samples/vector-embeddings-demos
