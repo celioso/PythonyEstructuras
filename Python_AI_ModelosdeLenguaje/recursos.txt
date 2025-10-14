@@ -1,5 +1,8 @@
-Python + IA: Recursos #165 = https://github.com/orgs/azure-ai-foundry/discussions/165
+Python + IA: Recursos #165 = https://github.com/orgs/azure-ai-foundry/discussions/165/?wt.mc_id=youtube_S-1580_organicsocial_reactor
 
 PythonAI_LMMs = https://github.com/orgs/azure-ai-foundry/discussions/165
 
 Python + AI: Embeddings Vectoriales = https://github.com/Azure-Samples/vector-embeddings-demos
+
+
+Python + AI: Modelos de Visión = https://github.com/Azure-Samples/openai-chat-vision-quickstart
