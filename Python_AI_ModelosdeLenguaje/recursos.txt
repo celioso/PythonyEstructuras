@@ -6,3 +6,5 @@ Python + AI: Embeddings Vectoriales = https://github.com/Azure-Samples/vector-em
 
 
 Python + AI: Modelos de Visión = https://github.com/Azure-Samples/openai-chat-vision-quickstart
+
+Python + AI: Salidas estructuradas = https://aka.ms/python-openai-demos otro link https://github.com/Azure-Samples/azure-openai-entity-extraction
