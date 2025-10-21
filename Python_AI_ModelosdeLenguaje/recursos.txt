@@ -10,3 +10,8 @@ Python + AI: Modelos de Visión = https://github.com/Azure-Samples/openai-chat-v
 Python + AI: Salidas estructuradas = https://aka.ms/python-openai-demos otro link https://github.com/Azure-Samples/azure-openai-entity-extraction
 
 Python + AI: Calidad y seguridad = https://github.com/Azure-Samples/ai-quality-safety-demos/
+
+Python + AI: Tool Calling = https://github.com/Azure-Samples/python-openai-demos
+
+
+ollama = https://ollama.com/library/qwen3-coder
