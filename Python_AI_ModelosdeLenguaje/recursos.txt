@@ -15,3 +15,16 @@ Python + AI: Tool Calling = https://github.com/Azure-Samples/python-openai-demos
 
 
 ollama = https://ollama.com/library/qwen3-coder
+
+Python + AI: Agentes AI = https://github.com/Azure-Samples/python-ai-agent-frameworks-demos/
+
+
+
+
+
+
+
+
+LangChain v1: What JS and Python developers need to know = https://github.com/Azure-Samples/mcp-agent-langchainjs
+
+https://techcommunity.microsoft.com/blog/azuredevcommunityblog/serverless-mcp-agent-with-langchain-js-v1-%E2%80%94-burgers-tools-and-traces-%F0%9F%8D%94/4463157
