@@ -18,6 +18,7 @@ ollama = https://ollama.com/library/qwen3-coder
 
 Python + AI: Agentes AI = https://github.com/Azure-Samples/python-ai-agent-frameworks-demos/
 
+Python + AI: Model Context Protocol = https://github.com/azure-samples/python-mcp-demo
 
 
 
