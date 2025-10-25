@@ -144,6 +144,8 @@ ENV/
 env.bak/
 venv.bak/
 *.zip
+vector-embeddings-demos-main.zip
+python-openai-demos-main.zip
 
 # Spyder project settings
 .spyderproject
