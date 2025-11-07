@@ -21,8 +21,9 @@ Python + AI: Agentes AI = https://github.com/Azure-Samples/python-ai-agent-frame
 Python + AI: Model Context Protocol = https://github.com/azure-samples/python-mcp-demo
 
 
+LangGraph 1.0 = https://chat.langchain.com/
 
-
+https://docs.langchain.com/oss/javascript/deepagents/overview
 
 
 
