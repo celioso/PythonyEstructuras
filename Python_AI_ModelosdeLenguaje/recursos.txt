@@ -30,5 +30,3 @@ https://docs.langchain.com/oss/javascript/deepagents/overview
 LangChain v1: What JS and Python developers need to know = https://github.com/Azure-Samples/mcp-agent-langchainjs
 
 https://techcommunity.microsoft.com/blog/azuredevcommunityblog/serverless-mcp-agent-with-langchain-js-v1-%E2%80%94-burgers-tools-and-traces-%F0%9F%8D%94/4463157
-
-gg45sds1211
